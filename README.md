@@ -11,12 +11,15 @@ A modern, user-friendly To-Do List application built with Flutter. This project 
 ## 📱 Screenshots
 
 **Main Screen**
+
 <img width="270" height="606" alt="Screenshot_1788439059" src="https://github.com/user-attachments/assets/a86bcf78-16e6-4c47-96a0-834f88c36679" />
 
 **Adding a New Task**
+
 <img width="270" height="606" alt="Screenshot_1788438853" src="https://github.com/user-attachments/assets/1c237593-965c-4adf-95be-a546d7826336" />
 
 **Swipe to Delete Action**
+
 <img width="270" height="606" alt="Screenshot_1788439200" src="https://github.com/user-attachments/assets/3e68f0e6-feda-4f7d-a939-8b2802ae5f80" />
 
 ---
